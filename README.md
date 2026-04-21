@@ -39,6 +39,6 @@ No installation required – just run the file.
 
 ### Run from source
 ```bash
-git clone https://github.com/ВАШ_ЛОГИН/silex.git
+git clone https://github.com/leshazhloba-max/silex.git
 cd silex
 python silex.py
