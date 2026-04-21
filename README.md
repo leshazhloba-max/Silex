@@ -34,12 +34,11 @@ It combines an intelligent file sorter with a safe temporary file cleaner, wrapp
 ## 📥 Installation
 
 ### Download the executable
-Go to the [Releases](https://github.com/ВАШ_ЛОГИН/silex/releases) page and download the latest `Silex.exe`.  
+Go to the [Releases](https://github.com/leshazhloba-max/silex/releases) page and download the latest `Silex.exe`.  
 No installation required – just run the file.
 
 ### Run from source
 ```bash
 git clone https://github.com/ВАШ_ЛОГИН/silex.git
 cd silex
-pip install -r requirements.txt
 python silex.py
